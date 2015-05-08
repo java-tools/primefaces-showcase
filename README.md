@@ -1,7 +1,5 @@
 # PrimeFaces Showcase - JSF Tools version
 
-![PrimeFaces icon](http://blog.primefaces.org/wp-content/uploads/2011/08/bloglogo.png)
-
 ### Getting Started
 
 Deployable version of **PrimeFaces Showcase** war file can be downloaded manually or build it from sources.  
@@ -57,14 +55,6 @@ mvn clean package -Pelite-dev
 [http://localhost:8080/showcase/](http://localhost:8080/showcase)
 
 [http://localhost:8080/showcase/mobile/index.xhtml](http://localhost:8080/showcase/mobile/index.xhtml)
-
-### Documentation
-
-User Guide is available at [documentation](http://www.primefaces.org/documentation) page along with other additional resoures.
-
-### Contribution
-
-Visit [Contribution Wiki](https://github.com/primefaces/primefaces/wiki/Contributing-to-Primefaces) page for the detailed information.
 
 ### License
 
